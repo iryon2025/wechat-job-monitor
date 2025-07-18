@@ -1,0 +1,26 @@
+[
+  {
+    "name": "深焦DeepFocus",
+    "url": "https://rsshub.app/wechat/mp/articles/deep_focus",
+    "description": "深焦DeepFocus公众号 - 影视行业资讯和批评",
+    "enabled": true
+  },
+  {
+    "name": "深焦DeepFocus-WeRSS",
+    "url": "https://werss.app/accounts/NTI1NDUwNTA1Mw==",
+    "description": "深焦DeepFocus通过WeRSS服务",
+    "enabled": true
+  },
+  {
+    "name": "校影",
+    "url": "https://rsshub.app/wechat/mp/articles/xiaoying",
+    "description": "校影公众号 - 影视招聘信息",
+    "enabled": true
+  },
+  {
+    "name": "测试RSS源",
+    "url": "https://feeds.feedburner.com/36kr-7",
+    "description": "测试用RSS源 - 36氪",
+    "enabled": true
+  }
+]

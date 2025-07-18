@@ -1,0 +1,37 @@
+{
+  "generated_at": "2025-07-18T19:58:10.849497",
+  "total_jobs": 1,
+  "jobs": [
+    {
+      "article_title": "急招副导演",
+      "source": "测试公众号",
+      "published_date": "2025-07-18T19:58:10.751812",
+      "article_url": "https://test.com/1",
+      "extraction_time": "2025-07-18T19:58:10.751885",
+      "company_name": "测试影视公司",
+      "company_address": "",
+      "job_title": "副导演",
+      "department": "",
+      "location": "北京",
+      "employment_type": "",
+      "salary_min": 8000.0,
+      "salary_max": 12000.0,
+      "salary_currency": "CNY",
+      "salary_period": "monthly",
+      "salary_original": "8000-12000元/月",
+      "requirements": "有相关经验; 熟悉影视制作流程",
+      "responsibilities": "",
+      "benefits": "",
+      "contact_person": "",
+      "contact_phone": "13800138000",
+      "contact_email": "test@test.com",
+      "contact_wechat": "",
+      "application_method": "",
+      "deadline": "",
+      "additional_info": "",
+      "is_confirmed": true,
+      "has_image_text": false,
+      "ai_confidence": false
+    }
+  ]
+}
